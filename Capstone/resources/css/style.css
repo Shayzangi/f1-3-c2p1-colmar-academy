@@ -1,0 +1,24 @@
+
+
+/** general items**/
+
+.div {
+  border: 1px black solid;
+}
+.container {
+display: flex;
+}
+
+
+
+/** header **/
+.menu {
+  background-color: white;
+  height: 64px;
+}
+
+.logo {
+  height: 32px;
+  margin: auto;
+  margin-left: 24px;
+}
